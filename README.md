@@ -1,4 +1,6 @@
 # Environmental Information System - Master Thesis
+>*The completion of a master degree and a vision; to megre data science and environment*
+
 
 This repository gives a short overview of the master thesis **Data Driven Sustainability Assessment of Indoor Farming Operations** released in december 2023. The objective of the environmental information system (EIS) is to collect data, store and process, and present the ecological footprint on a dashboard. The Environmental Information System has been designed for a Start-Up company in the Food and Agriculture sector, using indoor vertical farming techniques and were interested in acknowledging their environmental impact. 
 
