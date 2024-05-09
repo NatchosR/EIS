@@ -11,7 +11,7 @@ This repository gives a short overview of the master thesis **Data Driven Sustai
 |**ETL pipelines**| AWS: lambda function (Python)|
 |**Dashboard**| Tableau software|
 
-> Note: To avoid any conflict or leak of confidential information, no code, files or number are disclosed here, meaning I cannot present the final product, [contact me](www.linkedin.com/in/nathan-rohrbach-029252185) for more information.
+> Note: To avoid any conflict or leak of confidential information, no code, files or number are disclosed here, meaning I cannot present the final product, [contact me](https://www.linkedin.com/in/nathan-rohrbach-029252185) for more information.
 
 The Information System is divided in 3 parts *1) Data Acquisition* *2) Data Hosting and Processing* *3) Data Visualization*. 
 
