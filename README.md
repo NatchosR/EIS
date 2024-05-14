@@ -8,7 +8,7 @@ This repository gives a short overview of the master thesis **Data Driven Sustai
 |---|---|
 |**Environmental Footprint**| Electricity, Water, Land|
 |**Data Collected**| Electricity consumption, Water utilization, Food production and Land surface|
-|**Collection Method**| Energy monitoring system, Customed data entry application|
+|**Collection Method**| Energy monitoring system, Customed data entry application (Python, Tkinter)|
 |**Database**| AWS: S3 and PostgresSQL(RDS)|
 |**ETL pipelines**| AWS: lambda function (Python)|
 |**Dashboard**| Tableau software|
