@@ -2,7 +2,7 @@
 >*The completion of a master degree and a vision; to megre data science and environment*
 
 
-This repository gives a short overview of the master thesis **Data Driven Sustainability Assessment of Indoor Farming Operations** released in december 2023. The objective of the environmental information system (EIS) is to collect data, store and process, and present the ecological footprint on a dashboard. The Environmental Information System has been designed for a Start-Up company in the Food and Agriculture sector, using indoor vertical farming techniques and were interested in acknowledging their environmental impact. 
+This repository gives a short overview of the master thesis **Data Driven Sustainability Assessment of Indoor Farming Operations** released in december 2023. The objective of the environmental information system (EIS) is to collect data, store and process data automatically on the Cloud, and present the ecological footprint on a dashboard. The Environmental Information System has been designed for a Start-Up company in the Food and Agriculture sector, using indoor vertical farming techniques and were interested in acknowledging their environmental impact. 
 
 |    |      |
 |---|---|
@@ -13,7 +13,7 @@ This repository gives a short overview of the master thesis **Data Driven Sustai
 |**ETL pipelines**| AWS: lambda function (Python)|
 |**Dashboard**| Tableau software|
 
-> Note: To avoid any conflict or leak of confidential information, no code, files or number are disclosed here, meaning I cannot present the final product, [contact me](https://www.linkedin.com/in/nathan-rohrbach-029252185) for more information.
+> Note: To avoid any conflict or leak of confidential information, no code, files or number are disclosed here, meaning the final product is not presented here, [contact me](https://www.linkedin.com/in/nathan-rohrbach-029252185) for more information.
 
 The Information System is divided in 3 parts *1) Data Acquisition* *2) Data Hosting and Processing* *3) Data Visualization*. 
 
